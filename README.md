@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**DouglasFuelber/DouglasFuelber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am Douglas Fuelber
+### Full Stack Web Developer
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://www.linkedin.com/in/douglasfuelber/" target="_blank">
+    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&link=https://www.linkedin.com/in/douglasfuelber/">
+  </a>
+  <a href="https://douglasfuelber.com" target="_blank">
+    <img alt="Website Badge" src="https://img.shields.io/badge/douglasfuelber.com-%230077B5.svg?&style=flat-square&link=https://douglasfuelber.com">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm passionate about programming, mainly by web development, and I'm always looking to learn new technologies, methodologies and programming languages.
