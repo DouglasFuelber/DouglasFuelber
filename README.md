@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # I am Douglas Fuelber
-### Full Stack Web Developer
+### Full Stack Software Developer
 
 <p>
   <a href="https://www.linkedin.com/in/douglasfuelber/" target="_blank">
@@ -12,4 +12,6 @@
   </a>
 </p>
 
-💻 I'm passionate about programming, mainly by web development, and I'm always looking to learn new technologies, methodologies and programming languages.
+💻 Passionate about programming, I am always looking to learn new technologies, methodologies, programming languages or any knowledge that adds to my growth.
+
+🚀 As a software developer, I like to work on different types of projects, especially web applications, which challenge me technically and allow me to work with teams composed by people of different profiles, which allows a great exchange of knowledge and adds a lot to my professional and personal growth.
